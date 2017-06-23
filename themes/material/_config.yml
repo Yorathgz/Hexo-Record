@@ -147,18 +147,18 @@ sns_share:
 sidebar:
     dropdown:
         Email Me:
-            link: "#"
+                link: "mailto: hyfm@qq.com"
             icon: email
     homepage:
         use: true
         icon: home
-        divider: false
+        divider: true
     archives:
         use: true
         icon: inbox
         divider: false
     categories:
-        use: false
+        use: true
         icon: chrome_reader_mode
         divider: false
     pages:
@@ -171,7 +171,7 @@ sidebar:
         divider: false
     footer:
         divider: true
-        theme: true
+        theme: false
         support: false
         feedback: false
         material: false
