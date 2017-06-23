@@ -36,4 +36,6 @@ tags: Hexo
 
 ------
 
+![](https://github.com/Yorathgz/Markdown-Photos/blob/master/hexo/001.jpg?raw=true)
+
 迁移完成！
