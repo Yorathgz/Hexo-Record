@@ -70,11 +70,11 @@ background:
 
 # Images Settings
 img:
-    logo: "/img/logo_c.png"
-    avatar: "/img/avatar_c.png"
-    daily_pic: "/img/daily_pic_c.jpg"
-    sidebar_header: "/img/sidebar_header.png"
-    random_thumbnail: "/img/random/material-"
+    logo: "http://oqp90iv18.bkt.clouddn.com/img/170624/DGD01GmmCI.jpg"
+    avatar: "http://oqp90iv18.bkt.clouddn.com/img/170624/I684Ajf4jh.png"
+    daily_pic: "http://oqp90iv18.bkt.clouddn.com/img/170624/J303Kg0EkL.jpg"
+    sidebar_header: "http://oqp90iv18.bkt.clouddn.com/img/170624/bL2gf09049.png"
+    random_thumbnail: "http://oqp90iv18.bkt.clouddn.com//randommaterial-"
     footer_image:
         #upyun_logo:
             #link: "https://www.upyun.com/"
