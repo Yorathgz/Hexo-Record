@@ -2,6 +2,7 @@
 title: 暑假OI训练计划
 date: 2017-06-23 17:02:03
 tags: todo
+categories: todo
 ---
 
 # 暑假OI训练计划

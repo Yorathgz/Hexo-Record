@@ -2,6 +2,7 @@
 title: Remove Hexo
 date: 2017-06-23 19:59:00
 tags: Hexo
+categories: Hexo
 ---
 
 # Hexo迁移
@@ -35,7 +36,5 @@ tags: Hexo
 * `npm install hexo-deployer-git --save`，安装Git包
 
 ------
-
-![](https://github.com/Yorathgz/Markdown-Photos/blob/master/hexo/001.jpg?raw=true)
 
 迁移完成！
