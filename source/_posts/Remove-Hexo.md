@@ -11,7 +11,7 @@ categories: Hexo
 
 ## 安装Node.js
 
-* [下载地址](https://nodejs.org/en/download/)
+* [下载地址](http://nodejs.cn/download/)
 
 ## 安装Git
 
@@ -30,7 +30,7 @@ categories: Hexo
 ## 搭建Hexo环境
 
 * Git Bash，输入安装hexo的命令`npm install -g hexo-cli`
-* 执行`hexo init e:\blog`命令完成hexo的初始化
+* 执行`hexo init e:/blog`命令完成hexo的初始化
 * `cd e:/blog`，`npm install`，系统会可以根据package.json文件中dependencies的配置安装所有依赖包
 * 接着把项目中的文件替换到e:/blog中去
 * `npm install hexo-deployer-git --save`，安装Git包
