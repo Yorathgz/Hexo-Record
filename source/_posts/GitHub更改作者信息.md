@@ -7,7 +7,7 @@ categories: git
 permalink:
 thumbnail: http://oqp90iv18.bkt.clouddn.com/img/170625/cleLH29G97.png
 toc:
-comment:
+comments: true
 notag:
 top:
 ---
