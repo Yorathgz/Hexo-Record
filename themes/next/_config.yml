@@ -153,7 +153,7 @@ social:
 #   Key is the name of the item and value is the name of FontAwesome icon. Key is case-senstive.
 #   When an globe mask icon presenting up means that the item has no mapping icon.
 social_icons:
-  enable: true
+  enable: false
   # Icon Mappings.
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
   GitHub: github
@@ -237,7 +237,7 @@ excerpt_description: true
 # Please use <!-- more --> in the post to control excerpt accurately.
 auto_excerpt:
   enable: true
-  length: 150
+  length: 280
 
 # Post meta display settings
 post_meta:
@@ -257,13 +257,13 @@ post_wordcount:
 # Wechat Subscriber
 wechat_subscriber:
   enabled: true
-  qcode: http://oqp90iv18.bkt.clouddn.com/img/170627/3fE72cEeiH.jpg
-  description: 欢迎添加我的微信，以互相交流
+  qcode: http://oqp90iv18.bkt.clouddn.com/img/170702/D9caBjl07B.jpg
+  description: 欢迎添加我的微信，以互相交流。
 
 # 打赏功能
-reward_comment: 坚持原创技术分享，您的支持将鼓励我继续创作！
-wechatpay: http://oqp90iv18.bkt.clouddn.com/img/170627/3f8HaGdaKi.jpg
-alipay: #/path/to/alipay-reward-image
+reward_comment: 你的支持会成为我创作的动力！
+wechatpay: http://oqp90iv18.bkt.clouddn.com/img/170702/m0mBIL4kLm.png
+alipay: http://oqp90iv18.bkt.clouddn.com/img/170702/l2h10a9BJl.jpg
 
 # Declare license on posts
 post_copyright:
