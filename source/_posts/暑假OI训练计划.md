@@ -13,6 +13,8 @@ categories: todo
 
 ![flow](https://raw.githubusercontent.com/Yorathgz/Markdown-Photos/master/hexo/000.PNG)
 
+<!--more-->
+
 ## 时间安排表
 
 |时间|事件|

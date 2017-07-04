@@ -1,20 +1,17 @@
 ---
 title: GitHub更改作者信息
 date: 2017-06-25 10:45:50
-updated:
 tags: git
 categories: git
-permalink:
-thumbnail: http://oqp90iv18.bkt.clouddn.com/img/170625/cleLH29G97.png
-toc:
-comments: true
-notag:
-top:
 ---
 
 # GitHub为什么没有记录我的Contributions
 
+![img](http://oqp90iv18.bkt.clouddn.com/img/170625/cleLH29G97.png)
+
 > 这两天刚把git玩熟练，突然发现我的Contributions Graph上面居然绿点这么少（只有站点commit的绿点），发现原来是git没有设定好正确的用户名和邮箱（主要是邮箱），具体可以参考GitHub官方写的help文档。
+
+<!--more-->
 
 ## 为什么你的 Contributions 没有在你的 Profile 里显示？
 
@@ -139,13 +136,6 @@ git config --global user.name "你的Github用户名"
 更多配置可以参考[Pro Git 8.1自定义 Git - 配置 Git](https://git-scm.com/book/zh/v2/%E8%87%AA%E5%AE%9A%E4%B9%89-Git-%E9%85%8D%E7%BD%AE-Git)
 
 > 本文转载自[Xun Li](http://xunli.xyz/2016/01/09/github-not-count/)，有删改。
-
-
-
-
-
-
-
 
 
 

@@ -20,6 +20,7 @@ categories: Hexo
 * [Pro Git（中文版）](http://git.oschina.net/progit/)
 * [常用命令](http://blog.csdn.net/u011974987/article/details/50973740)
 
+<!--more-->
 
 ## Clone项目
 
