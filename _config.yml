@@ -1,14 +1,44 @@
-# Hexo Configuration
+﻿# Hexo Configuration
 ## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Yorath's Page
-subtitle: �X�mһֻ
+title: Yorath's Blog
+subtitle: 没有学不会的技术，只有傻逼。
 description: Welcome to here.
 author: Yorath
-language: zh-Hans
+language: zh-CN
 timezone: 
+email: yorathgz@gmail.com
+
+# Feed
+## Docs: https://github.com/hexojs/hexo-generator-feed
+### 外加的
+feed: 
+  type: atom
+  path: atom.xml
+  limit: 0
+
+# JsonContent
+## Docs: https://github.com/alexbruno/hexo-generator-json-content
+jsonContent:
+  meta: false
+  pages: false
+  posts:
+    title: true
+    date: true
+    path: true
+    text: true
+    raw: false
+    content: false
+    slug: false
+    updated: false
+    comments: false
+    link: false
+    permalink: false
+    excerpt: false
+    categories: false
+    tags: true
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -63,7 +93,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: next
+theme: indigo
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html

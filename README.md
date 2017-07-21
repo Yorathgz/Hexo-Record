@@ -28,6 +28,10 @@
 * 接着把项目中的文件替换到`e:\blog`中去
 * `npm install hexo-deployer-git --save`，安装Git包
 
+## 根据主题配置安装依赖
+
+详情在主题文件夹内的readme查阅。
+
 ------
 
 迁移完成！
