@@ -17,21 +17,16 @@
 ## Clone项目
 
 * 将项目Clone到本地
-* ssh压缩包中的内容放到用户ssh文件夹
-* 压缩包密码提示：常用加实
+* 如果有拷贝.ssh，将.ssh中的内容放到用户.ssh文件夹
+* 如果没有拷贝.ssh，将GitHub账户的老公钥删除，在本地创建新ssh key，将公钥放到GitHub的新公钥认证中
 
-## 搭建Hexo环境
+## 配置Hexo环境
 
 * Git Bash，输入安装hexo的命令`npm install -g hexo-cli`
-* 执行`hexo init e:\blog`命令完成hexo的初始化
-* `cd e:\blog`，`npm install`，系统会可以根据package.json文件中dependencies的配置安装所有依赖包
-* 接着把项目中的文件替换到`e:\blog`中去
-* `npm install hexo-deployer-git --save`，安装Git包
-
-## 根据主题配置安装依赖
-
-详情在主题文件夹内的readme查阅。
+* 执行`hexo init e:\blog`命令完成hexo的初始化，`cd e:\blog`
+* 接着把项目中的文件覆盖到`e:\blog`中去
+* `npm install`，系统会可以根据package.json文件中dependencies的配置安装所有依赖包
 
 ------
 
-迁移完成！
+接下来可以开开心心地使用hexo啦！
