@@ -16,7 +16,7 @@
 
 ## Clone项目
 
-* 将项目Clone到本地
+* 将项目clone到本地
 * 如果有拷贝.ssh，将.ssh中的内容放到用户.ssh文件夹
 * 如果没有拷贝.ssh，将GitHub账户的老公钥删除，在本地创建新ssh key，将公钥放到GitHub的新公钥认证中
 
@@ -26,6 +26,12 @@
 * 执行`hexo init e:\blog`命令完成hexo的初始化，`cd e:\blog`
 * 接着把项目中的文件覆盖到`e:\blog`中去
 * `npm install`，系统会可以根据package.json文件中dependencies的配置安装所有依赖包
+
+## 恢复.deploy
+
+* 先执行一遍`hexo d -g`，这时候会生成.deploy前缀的文件夹
+* 将Page项目clone下来
+* 替换掉刚刚生成的文件夹内容
 
 ------
 
